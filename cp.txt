@@ -1,0 +1,24 @@
+<img src="./assets/textPhoto.svg" alt="" class="img-fluid textImg">
+
+<img src="./assets/combined.svg" alt="" style="margin-left:20px;">
+
+<div class="carousel-item">
+      <img class="d-block w-100" src="./assets/card3.svg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/card4.svg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/card5.svg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/card6.svg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/card7.svg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/card8.svg" alt="Third slide">
+    </div>
+
+     target="dummyframe"
