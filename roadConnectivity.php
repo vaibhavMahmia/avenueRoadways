@@ -13,7 +13,7 @@
           deliveries, making us the go-to choice for businesses across the
           country
           <br><br>
-          <a href="" class="lMore">Learn More</a>
+          <a href="./Avenue/index-servies.html" class="lMore">Learn More</a>
         </div>
         <div class="col-sm-5"><img src="./assets/truckBharna.svg" alt="" class="truckBharow"></div>
       </div>
@@ -30,7 +30,7 @@
           delivered safely and efficiently. Contact us today to learn more about
           our services
           <br><br>
-          <a href="" class="lMore">Learn More</a>
+          <a href="./Avenue/index-servies.html" class="lMore">Learn More</a>
         </div>
         <div class="col-sm-5"><img src="./assets/indtoBang.svg" alt="" class="truckBharow"></div>
       </div>
@@ -49,7 +49,7 @@
           location of your goods in real-time, giving you peace of mind and
           ensuring timely delivery.
           <br><br>
-          <a href="" class="lMore">Learn More</a>
+          <a href="./Avenue/index-servies.html" class="lMore">Learn More</a>
         </div>
         <div class="col-sm-5"><img src="./assets/trackTruck.svg" alt="" class="truckBharow"></div>
       </div>
